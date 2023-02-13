@@ -80,4 +80,4 @@ done
 # Running multiqc will generate an html file that can be opened in your browser to view your data.
 multiqc -d .
 
-echo "Pseudoalignment was been completed!"
+echo "Pseudoalignment has been completed!"
